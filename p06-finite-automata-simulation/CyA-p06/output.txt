@@ -1,0 +1,12 @@
+0010 --- Acepted
+10 --- Acepted
+10111 --- Acepted
+00 --- Acepted
+100 --- Acepted
+11110110110 --- Acepted
+0 --- Rejected
+11 --- Acepted
+001 --- Acepted
+011 --- Rejected
+0110 --- Rejected
+011 --- Rejected
